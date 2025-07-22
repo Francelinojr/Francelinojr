@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=02a61d&height=120&section=header"/>
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02a61d&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+my+name+is+Francelino+Junior;I%27m+24+years+old;I+am+from+Jo%C3%A3o+Pessoa,+PB;+Brazil;+I+study+Data+Sciences+and+Artificial+Intelligence+;Be+Welcome!+)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02a61d&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+my+name+is+Francelino+Junior;I%27m+25+years+old;I+am+from+Jo%C3%A3o+Pessoa,+PB;+Brazil;+I+study+Data+Sciences+and+Artificial+Intelligence+;Be+Welcome!+)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Francelinojr&show_icons=true&count_private=true&hide_border=true&title_color=02a61d&icon_color=02a61d&text_color=c9d1d9&bg_color=0d1117%22%20alt=%22Francelinojr20github%20stats" /> 
